@@ -1,6 +1,7 @@
 # Blinkit-Analysis
 
 #Blinkit Grocery Sales Analysis Dashboard
+
 #Overview:
 This repository contains an interactive Power BI dashboard designed to analyze grocery sales performance for a quick-commerce business. The dashboard provides insights into sales trends, outlet performance, product categories, customer preferences, and ratings, enabling data-driven business decisions.
 
@@ -34,6 +35,7 @@ Enabled data-driven decisions through sales, rating, and outlet performance anal
 
 #Tech Stack
 Power BI → Power Query, DAX measures, interactive dashboards
+
 Data Sources → BlinkIT Grocery Data
 
 #Screenshots: 
